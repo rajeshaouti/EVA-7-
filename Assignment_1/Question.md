@@ -6,3 +6,4 @@
 4) How are kernels initialized? 
 5) What happens during the training of a DNN?
 6)hi there
+7)hello
